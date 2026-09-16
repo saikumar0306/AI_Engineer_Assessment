@@ -23,20 +23,18 @@ The dataset contains 500 support tickets with these fields:
 flowchart TD
     User[User] --> UI[Streamlit UI]
     UI --> API[FastAPI]
-    API --> LLM[Ollama (llama3.2:3b)]
+    API --> LLM[Ollama - llama3.2:3b]
     LLM --> SQ[Structured Query / Intent]
     SQ --> QE[QueryEngine]
-    QE --> PANDAS[Pandas]
-    PANDAS --> CSV[support_tickets.csv]
-    CSV --> QE
+    CSV[support_tickets.csv] --> PANDAS[Pandas DataFrame]
+    PANDAS --> QE
     QE --> API
     API --> UI
     UI --> User
 
     CSV --> AD[AnomalyDetector]
-    AD --> FLAGS[Long Resolution Time / High-Priority Unresolved]
+    AD --> FLAGS[Anomaly Results]
     FLAGS --> API
-    API --> UI
 ```
 
 This project has two main flows.
