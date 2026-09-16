@@ -1,0 +1,501 @@
+ticket_id,created_at,category,priority,status,response_time_hrs,resolution_time_hrs,agent_id,customer_rating,issue_summary
+TKT-001,2024-02-05 11:14,General,Low,Resolved,3.7,7.8,AGT-03,4,Request for product documentation
+TKT-002,2024-03-05 17:01,Billing,Low,Resolved,1.2,13.7,AGT-09,4,Incorrect charge on invoice
+TKT-003,2024-02-13 12:09,Billing,High,Resolved,4.8,2.1,AGT-04,5,Unexpected fee on account
+TKT-004,2024-03-09 09:59,Billing,High,Resolved,0.6,10.7,AGT-07,4,Subscription not activated after payment
+TKT-005,2024-03-25 11:49,General,Low,Open,4.9,,AGT-05,,How to export data to CSV
+TKT-006,2024-03-22 13:10,Technical,Low,Resolved,1.9,34.1,AGT-06,2,Dashboard not loading
+TKT-007,2024-01-21 15:24,General,High,Open,4.9,,AGT-05,,Question about usage limits
+TKT-008,2024-01-08 11:52,General,Medium,Resolved,4.1,22.1,AGT-01,4,Request for account deletion
+TKT-009,2024-02-20 18:29,Billing,High,Resolved,1.5,3.9,AGT-03,4,Wrong plan charged
+TKT-010,2024-01-18 16:31,Technical,Low,Open,3.8,,AGT-02,,Dashboard not loading
+TKT-011,2024-03-28 14:38,General,Low,Resolved,2.0,15.1,AGT-02,4,Request for product documentation
+TKT-012,2024-03-28 16:48,General,High,Resolved,3.9,2.7,AGT-05,1,Need help with onboarding
+TKT-013,2024-03-05 09:55,General,High,Open,1.6,,AGT-11,,Question about usage limits
+TKT-014,2024-01-21 16:49,Billing,Medium,Resolved,4.6,4.5,AGT-09,4,Unexpected fee on account
+TKT-015,2024-03-13 09:05,Billing,Low,Resolved,2.5,37.7,AGT-12,2,Payment failed but amount deducted
+TKT-016,2024-03-08 17:27,General,Low,Open,4.7,,AGT-04,,Question about usage limits
+TKT-017,2024-03-26 18:23,General,Medium,Resolved,4.5,3.4,AGT-08,1,Question about usage limits
+TKT-018,2024-01-10 18:03,General,Low,Resolved,0.5,26.6,AGT-04,3,Change notification preferences
+TKT-019,2024-03-14 17:30,Billing,Medium,Open,4.0,,AGT-04,,Subscription not activated after payment
+TKT-020,2024-02-25 13:27,Billing,Low,Open,2.4,,AGT-07,,Refund not processed
+TKT-021,2024-02-13 09:15,Billing,Medium,Resolved,1.1,8.1,AGT-04,3,Refund not processed
+TKT-022,2024-03-11 09:03,Technical,High,Open,5.0,,AGT-11,,API timeout errors in production
+TKT-023,2024-03-03 15:13,Billing,Low,Resolved,4.5,76.1,AGT-07,5,Payment failed but amount deducted
+TKT-024,2024-03-12 18:45,Technical,Medium,Resolved,0.9,14.7,AGT-08,4,Error 500 on checkout page
+TKT-025,2024-03-02 16:58,Billing,Low,Escalated,1.0,,AGT-09,,Refund not processed
+TKT-026,2024-01-09 18:55,Billing,Low,Open,2.1,,AGT-04,,Subscription not activated after payment
+TKT-027,2024-03-20 09:26,General,Medium,Resolved,3.0,6.5,AGT-11,5,Question about usage limits
+TKT-028,2024-03-26 18:19,Technical,Medium,Open,1.7,,AGT-08,,API timeout errors in production
+TKT-029,2024-03-13 09:04,Billing,Medium,Resolved,1.2,21.4,AGT-09,5,Invoice not received
+TKT-030,2024-03-10 12:39,Technical,Low,Resolved,2.7,45.0,AGT-11,2,Dashboard not loading
+TKT-031,2024-01-14 16:09,Technical,Low,Resolved,1.6,34.2,AGT-05,5,Database connection timeout
+TKT-032,2024-01-07 09:40,Technical,Low,Resolved,4.2,9.8,AGT-07,5,Dashboard not loading
+TKT-033,2024-02-24 16:00,General,Medium,Open,0.6,,AGT-02,,Feature request: dark mode
+TKT-034,2024-02-17 17:35,General,Low,Resolved,2.3,45.1,AGT-03,5,Request for product documentation
+TKT-035,2024-02-01 18:06,Technical,Low,Open,3.9,,AGT-06,,SSL certificate issue
+TKT-036,2024-01-31 10:51,General,High,Resolved,4.4,4.7,AGT-03,5,Question about usage limits
+TKT-037,2024-03-30 09:24,Technical,Low,Resolved,4.3,24.3,AGT-01,3,Integration broken after version upgrade
+TKT-038,2024-01-25 14:21,Billing,Low,Escalated,4.3,,AGT-05,,Unexpected fee on account
+TKT-039,2024-02-21 18:53,Technical,Medium,Resolved,1.8,7.7,AGT-09,4,Data sync not working
+TKT-040,2024-02-25 13:46,Billing,Low,Escalated,2.3,,AGT-06,,Refund not processed
+TKT-041,2024-01-25 12:02,Technical,High,Resolved,2.3,8.6,AGT-12,5,Integration broken after version upgrade
+TKT-042,2024-03-26 13:39,Technical,Medium,Resolved,3.4,13.2,AGT-06,4,Error 500 on checkout page
+TKT-043,2024-03-11 10:12,Technical,High,Resolved,3.4,2.9,AGT-07,4,SSL certificate issue
+TKT-044,2024-02-08 12:13,General,High,Open,4.0,,AGT-07,,Request for account deletion
+TKT-045,2024-03-27 11:32,Technical,Medium,Escalated,4.0,,AGT-08,,Dashboard not loading
+TKT-046,2024-03-06 18:40,General,Low,Open,1.8,,AGT-10,,Question about usage limits
+TKT-047,2024-01-26 10:01,General,Medium,Resolved,1.4,3.6,AGT-01,4,Question about usage limits
+TKT-048,2024-03-04 14:15,General,High,Resolved,3.3,9.5,AGT-03,2,How to add team members
+TKT-049,2024-03-30 16:29,Billing,Low,Open,2.9,,AGT-01,,Refund not processed
+TKT-050,2024-02-29 18:33,Technical,Low,Escalated,3.1,,AGT-09,,Webhook not triggering
+TKT-051,2024-03-05 14:53,General,High,Resolved,2.3,6.0,AGT-09,5,Need help with onboarding
+TKT-052,2024-01-31 12:28,General,Medium,Resolved,3.6,21.6,AGT-02,2,Feature request: dark mode
+TKT-053,2024-01-20 11:04,Billing,Medium,Resolved,2.2,6.6,AGT-07,4,Incorrect charge on invoice
+TKT-054,2024-01-01 13:19,General,Medium,Escalated,4.3,,AGT-07,,How to add team members
+TKT-055,2024-03-10 17:57,General,High,Resolved,2.5,5.3,AGT-04,4,How to add team members
+TKT-056,2024-02-29 10:39,General,Low,Resolved,0.3,5.2,AGT-09,4,Feature request: dark mode
+TKT-057,2024-02-03 14:20,Technical,Low,Resolved,2.4,16.2,AGT-04,5,SSL certificate issue
+TKT-058,2024-03-01 08:47,Technical,High,Escalated,0.5,,AGT-09,,Integration broken after version upgrade
+TKT-059,2024-03-24 08:48,General,Low,Resolved,4.8,59.0,AGT-01,2,How to export data to CSV
+TKT-060,2024-02-29 12:49,General,Critical,Escalated,1.0,,AGT-06,,How to export data to CSV
+TKT-061,2024-01-14 17:01,Billing,Critical,Open,3.0,,AGT-05,,Wrong plan charged
+TKT-062,2024-01-26 09:37,Technical,Critical,Resolved,4.2,2.2,AGT-12,4,API timeout errors in production
+TKT-063,2024-02-14 16:27,General,High,Resolved,2.0,10.3,AGT-11,5,How to export data to CSV
+TKT-064,2024-03-22 15:45,Technical,Critical,Escalated,2.3,,AGT-03,,Data sync not working
+TKT-065,2024-03-09 15:29,General,High,Resolved,4.2,3.7,AGT-07,5,Need help with onboarding
+TKT-066,2024-02-29 17:39,Technical,Low,Resolved,2.0,12.0,AGT-11,3,Data sync not working
+TKT-067,2024-03-17 12:35,Technical,Low,Resolved,2.7,21.9,AGT-01,4,Integration broken after version upgrade
+TKT-068,2024-03-03 15:50,General,Medium,Resolved,0.6,8.7,AGT-01,4,Change notification preferences
+TKT-069,2024-02-24 16:21,General,Medium,Resolved,3.6,4.7,AGT-06,3,How to export data to CSV
+TKT-070,2024-03-29 10:12,General,Medium,Resolved,3.7,18.7,AGT-04,4,How to export data to CSV
+TKT-071,2024-02-16 10:19,Billing,Low,Resolved,3.6,51.9,AGT-01,3,Double billing issue
+TKT-072,2024-03-03 09:55,General,High,Resolved,3.0,3.0,AGT-01,2,Change notification preferences
+TKT-073,2024-02-21 15:04,Billing,High,Resolved,3.2,7.2,AGT-10,3,Subscription not activated after payment
+TKT-074,2024-02-23 17:38,Billing,Medium,Resolved,1.3,11.7,AGT-10,5,Wrong plan charged
+TKT-075,2024-01-08 17:47,Technical,Medium,Resolved,4.7,16.5,AGT-02,3,Dashboard not loading
+TKT-076,2024-01-01 14:28,General,Low,Resolved,3.1,35.1,AGT-12,5,Change notification preferences
+TKT-077,2024-02-03 18:37,Billing,High,Resolved,4.1,3.5,AGT-11,2,Unexpected fee on account
+TKT-078,2024-01-22 12:38,Billing,Low,Open,4.2,,AGT-12,,Payment failed but amount deducted
+TKT-079,2024-02-08 14:17,Billing,Medium,Resolved,2.8,21.6,AGT-09,5,Unexpected fee on account
+TKT-080,2024-03-27 17:37,Billing,Low,Resolved,5.0,5.8,AGT-01,5,Payment failed but amount deducted
+TKT-081,2024-02-05 10:37,General,High,Resolved,3.2,4.8,AGT-07,3,How to export data to CSV
+TKT-082,2024-03-29 15:18,Billing,Medium,Open,4.7,,AGT-11,,Incorrect charge on invoice
+TKT-083,2024-02-02 13:07,Technical,Low,Open,4.4,,AGT-07,,System login failure after update
+TKT-084,2024-02-29 14:03,General,High,Open,2.7,,AGT-04,,Change notification preferences
+TKT-085,2024-01-07 11:17,General,Medium,Resolved,0.8,12.7,AGT-09,1,Question about usage limits
+TKT-086,2024-03-11 08:35,General,Low,Escalated,0.6,,AGT-07,,How to export data to CSV
+TKT-087,2024-03-23 10:31,Technical,Critical,Escalated,1.6,,AGT-12,,SSL certificate issue
+TKT-088,2024-02-01 15:35,Technical,Critical,Open,2.0,,AGT-03,,Database connection timeout
+TKT-089,2024-01-09 12:49,General,High,Open,1.8,,AGT-07,,Need help with onboarding
+TKT-090,2024-02-08 17:37,Billing,Low,Resolved,2.6,19.2,AGT-11,4,Wrong plan charged
+TKT-091,2024-01-25 11:36,Technical,Critical,Escalated,1.3,,AGT-07,,System login failure after update
+TKT-092,2024-02-18 14:42,Technical,High,Resolved,4.9,84.2,AGT-11,4,API timeout errors in production
+TKT-093,2024-02-28 08:46,Technical,Low,Resolved,2.2,24.7,AGT-03,5,Error 500 on checkout page
+TKT-094,2024-03-24 09:54,General,High,Escalated,4.3,,AGT-06,,How to add team members
+TKT-095,2024-03-03 16:02,Technical,Medium,Resolved,0.5,23.9,AGT-10,5,SSL certificate issue
+TKT-096,2024-01-13 15:10,Billing,High,Resolved,1.6,1.6,AGT-12,4,Wrong plan charged
+TKT-097,2024-02-22 17:43,Billing,Low,Resolved,1.0,31.3,AGT-03,3,Double billing issue
+TKT-098,2024-02-02 15:16,Billing,Medium,Open,0.2,,AGT-11,,Unexpected fee on account
+TKT-099,2024-01-10 15:22,General,Medium,Escalated,1.6,,AGT-10,,Need help with onboarding
+TKT-100,2024-01-26 14:54,Technical,High,Resolved,0.7,4.3,AGT-08,4,System login failure after update
+TKT-101,2024-01-02 17:55,General,Medium,Escalated,3.9,,AGT-11,,Change notification preferences
+TKT-102,2024-01-30 17:51,Technical,High,Resolved,1.3,9.3,AGT-06,5,Dashboard not loading
+TKT-103,2024-03-21 18:02,General,Low,Resolved,4.0,9.8,AGT-05,5,Request for account deletion
+TKT-104,2024-01-26 10:50,General,Medium,Resolved,4.4,8.0,AGT-09,3,Change notification preferences
+TKT-105,2024-02-13 09:29,Technical,High,Escalated,0.9,,AGT-02,,SSL certificate issue
+TKT-106,2024-02-20 08:16,General,Medium,Resolved,0.8,7.8,AGT-09,4,Request for account deletion
+TKT-107,2024-03-01 08:39,Billing,High,Open,1.8,,AGT-09,,Refund not processed
+TKT-108,2024-03-30 12:41,General,High,Resolved,0.8,119.7,AGT-07,2,Question about usage limits
+TKT-109,2024-02-28 13:42,General,Low,Resolved,3.5,36.0,AGT-12,5,How to export data to CSV
+TKT-110,2024-02-05 08:44,Technical,Medium,Resolved,1.2,10.0,AGT-06,5,Error 500 on checkout page
+TKT-111,2024-03-23 13:03,General,Critical,Open,1.5,,AGT-07,,Change notification preferences
+TKT-112,2024-03-23 18:38,Billing,High,Resolved,0.4,9.7,AGT-01,3,Subscription not activated after payment
+TKT-113,2024-01-30 13:49,General,Low,Resolved,4.0,47.3,AGT-03,5,Need help with onboarding
+TKT-114,2024-01-04 10:00,Billing,Low,Resolved,4.0,11.7,AGT-06,2,Wrong plan charged
+TKT-115,2024-01-09 15:28,General,Low,Resolved,2.7,45.6,AGT-06,1,Need help with onboarding
+TKT-116,2024-01-04 08:30,Technical,Medium,Resolved,2.2,11.8,AGT-07,5,Error 500 on checkout page
+TKT-117,2024-01-17 12:39,General,Low,Open,3.0,,AGT-11,,How to add team members
+TKT-118,2024-02-28 16:38,General,Medium,Open,0.7,,AGT-07,,Question about usage limits
+TKT-119,2024-01-30 14:21,Technical,Medium,Open,2.1,,AGT-08,,Error 500 on checkout page
+TKT-120,2024-02-02 13:09,Technical,Medium,Resolved,4.6,4.1,AGT-11,2,Error 500 on checkout page
+TKT-121,2024-03-16 16:35,Billing,Medium,Resolved,3.4,22.7,AGT-06,4,Incorrect charge on invoice
+TKT-122,2024-02-15 09:36,Technical,Medium,Resolved,1.2,4.4,AGT-09,5,Error 500 on checkout page
+TKT-123,2024-03-14 11:51,Billing,High,Escalated,4.3,,AGT-07,,Incorrect charge on invoice
+TKT-124,2024-03-29 12:01,General,Critical,Escalated,1.5,,AGT-03,,Request for account deletion
+TKT-125,2024-01-19 17:42,Technical,Low,Open,0.5,,AGT-07,,System login failure after update
+TKT-126,2024-01-28 14:26,Billing,High,Resolved,1.8,9.5,AGT-08,4,Refund not processed
+TKT-127,2024-03-20 08:43,Billing,Low,Resolved,1.5,23.4,AGT-02,3,Refund not processed
+TKT-128,2024-02-06 18:43,Technical,Medium,Resolved,2.5,76.5,AGT-10,4,System login failure after update
+TKT-129,2024-01-28 10:48,Billing,Medium,Resolved,1.6,11.5,AGT-05,2,Subscription not activated after payment
+TKT-130,2024-03-26 13:04,General,Medium,Resolved,4.3,114.3,AGT-07,5,How to add team members
+TKT-131,2024-03-22 14:18,General,Medium,Escalated,2.1,,AGT-02,,Feature request: dark mode
+TKT-132,2024-03-29 13:05,General,Medium,Resolved,4.3,13.5,AGT-07,4,Need help with onboarding
+TKT-133,2024-02-12 10:04,General,Medium,Resolved,3.2,19.1,AGT-09,4,Feature request: dark mode
+TKT-134,2024-02-02 11:11,Billing,Low,Open,0.9,,AGT-10,,Refund not processed
+TKT-135,2024-03-21 15:29,Billing,Critical,Resolved,3.8,3.6,AGT-10,4,Invoice not received
+TKT-136,2024-02-26 09:30,General,Medium,Open,3.2,,AGT-08,,Request for product documentation
+TKT-137,2024-02-09 15:28,Technical,Medium,Open,0.5,,AGT-01,,API timeout errors in production
+TKT-138,2024-01-12 17:38,General,High,Resolved,2.0,9.1,AGT-09,1,Question about usage limits
+TKT-139,2024-03-05 10:03,Technical,Medium,Open,0.7,,AGT-08,,Error 500 on checkout page
+TKT-140,2024-03-23 10:02,General,Low,Escalated,3.6,,AGT-04,,Feature request: dark mode
+TKT-141,2024-02-06 14:26,Technical,Medium,Resolved,3.5,9.4,AGT-06,3,Database connection timeout
+TKT-142,2024-02-02 18:58,General,Medium,Resolved,4.4,5.1,AGT-10,3,How to add team members
+TKT-143,2024-01-11 12:35,Billing,Medium,Resolved,3.3,17.5,AGT-07,5,Refund not processed
+TKT-144,2024-03-06 13:01,General,High,Escalated,1.7,,AGT-06,,Request for account deletion
+TKT-145,2024-01-18 10:04,Technical,Low,Resolved,4.3,40.7,AGT-05,5,System login failure after update
+TKT-146,2024-03-20 10:38,General,Medium,Resolved,0.9,15.7,AGT-07,5,Change notification preferences
+TKT-147,2024-03-27 11:28,Billing,Medium,Open,1.6,,AGT-10,,Payment failed but amount deducted
+TKT-148,2024-02-09 15:57,Billing,Medium,Open,2.0,,AGT-04,,Payment failed but amount deducted
+TKT-149,2024-02-18 16:33,Technical,High,Open,4.8,,AGT-07,,Mobile app crash on startup
+TKT-150,2024-01-07 18:30,Billing,High,Resolved,2.9,10.4,AGT-06,3,Double billing issue
+TKT-151,2024-03-06 10:53,Technical,Medium,Open,0.6,,AGT-07,,Webhook not triggering
+TKT-152,2024-02-23 08:25,Technical,Critical,Resolved,2.0,1.7,AGT-09,3,API timeout errors in production
+TKT-153,2024-01-19 10:02,General,Medium,Resolved,4.6,18.7,AGT-05,4,Request for product documentation
+TKT-154,2024-01-28 10:35,Billing,Low,Resolved,3.1,14.5,AGT-12,2,Subscription not activated after payment
+TKT-155,2024-03-20 15:04,Technical,Medium,Resolved,4.2,15.9,AGT-02,4,Dashboard not loading
+TKT-156,2024-03-19 13:15,Technical,Medium,Resolved,2.2,23.4,AGT-10,2,Database connection timeout
+TKT-157,2024-03-05 16:01,General,Medium,Resolved,4.4,10.2,AGT-07,5,Request for account deletion
+TKT-158,2024-03-25 18:06,Billing,Medium,Resolved,3.7,87.3,AGT-10,5,Double billing issue
+TKT-159,2024-03-30 15:40,General,Medium,Resolved,4.1,12.1,AGT-03,3,Request for product documentation
+TKT-160,2024-02-10 12:32,Billing,High,Resolved,4.9,9.3,AGT-07,3,Invoice not received
+TKT-161,2024-02-12 12:07,Billing,High,Resolved,2.3,11.5,AGT-06,3,Double billing issue
+TKT-162,2024-02-17 16:17,Technical,High,Resolved,3.7,10.0,AGT-02,4,Error 500 on checkout page
+TKT-163,2024-03-25 12:19,Billing,Low,Resolved,3.1,19.5,AGT-08,1,Invoice not received
+TKT-164,2024-02-05 18:50,General,Critical,Escalated,0.6,,AGT-01,,Request for account deletion
+TKT-165,2024-03-27 10:01,General,High,Open,4.3,,AGT-03,,Change notification preferences
+TKT-166,2024-01-31 18:23,Billing,Low,Resolved,2.0,33.9,AGT-06,5,Invoice not received
+TKT-167,2024-03-14 10:33,Technical,High,Open,2.1,,AGT-06,,Integration broken after version upgrade
+TKT-168,2024-01-24 15:33,Billing,Low,Resolved,4.6,35.0,AGT-07,3,Unexpected fee on account
+TKT-169,2024-03-03 11:07,General,Critical,Resolved,4.3,2.9,AGT-03,2,Request for account deletion
+TKT-170,2024-01-09 16:34,General,Medium,Open,4.5,,AGT-05,,Feature request: dark mode
+TKT-171,2024-01-16 11:50,Technical,Medium,Resolved,1.3,14.6,AGT-03,4,Database connection timeout
+TKT-172,2024-01-12 09:19,Billing,Medium,Open,5.0,,AGT-07,,Wrong plan charged
+TKT-173,2024-01-10 10:20,Technical,High,Resolved,0.6,2.4,AGT-11,5,Database connection timeout
+TKT-174,2024-01-17 14:32,General,Medium,Resolved,4.2,5.6,AGT-01,5,Question about usage limits
+TKT-175,2024-03-07 12:54,Technical,Critical,Escalated,1.4,,AGT-02,,Database connection timeout
+TKT-176,2024-02-08 17:34,Technical,Low,Resolved,2.6,10.8,AGT-02,4,Mobile app crash on startup
+TKT-177,2024-03-13 08:52,Technical,High,Escalated,0.6,,AGT-01,,Mobile app crash on startup
+TKT-178,2024-03-14 14:39,Technical,High,Escalated,0.3,,AGT-11,,Database connection timeout
+TKT-179,2024-02-08 15:15,Technical,Medium,Resolved,2.1,5.5,AGT-11,4,Webhook not triggering
+TKT-180,2024-01-19 13:55,Billing,Medium,Escalated,1.7,,AGT-12,,Invoice not received
+TKT-181,2024-02-17 16:35,Technical,Low,Resolved,1.7,14.9,AGT-02,2,Data sync not working
+TKT-182,2024-02-23 11:55,Technical,High,Escalated,4.1,,AGT-03,,Error 500 on checkout page
+TKT-183,2024-03-04 16:29,Billing,High,Resolved,4.4,5.3,AGT-08,4,Subscription not activated after payment
+TKT-184,2024-01-07 08:18,Billing,Medium,Open,3.1,,AGT-08,,Payment failed but amount deducted
+TKT-185,2024-01-14 14:08,Technical,Medium,Open,3.7,,AGT-05,,Error 500 on checkout page
+TKT-186,2024-03-13 16:12,Billing,Medium,Resolved,2.9,18.8,AGT-06,3,Refund not processed
+TKT-187,2024-02-20 13:50,Billing,Critical,Resolved,2.9,3.8,AGT-06,4,Incorrect charge on invoice
+TKT-188,2024-02-12 15:33,Billing,Low,Open,0.9,,AGT-08,,Double billing issue
+TKT-189,2024-02-10 10:25,Technical,Critical,Resolved,3.7,5.1,AGT-10,4,Mobile app crash on startup
+TKT-190,2024-01-03 13:21,Technical,Medium,Resolved,0.7,21.8,AGT-11,5,System login failure after update
+TKT-191,2024-03-24 17:36,General,Medium,Resolved,3.7,15.8,AGT-04,4,How to add team members
+TKT-192,2024-02-01 08:36,Billing,High,Resolved,0.7,2.7,AGT-12,4,Wrong plan charged
+TKT-193,2024-03-01 08:45,General,High,Resolved,2.7,6.3,AGT-03,4,Feature request: dark mode
+TKT-194,2024-02-13 16:22,Technical,Critical,Escalated,3.9,,AGT-11,,Data sync not working
+TKT-195,2024-02-01 12:35,General,Medium,Escalated,1.3,,AGT-05,,Need help with onboarding
+TKT-196,2024-03-29 15:20,Technical,High,Escalated,1.9,,AGT-08,,Data sync not working
+TKT-197,2024-03-27 16:24,Technical,Low,Escalated,4.1,,AGT-07,,Dashboard not loading
+TKT-198,2024-01-11 13:59,Technical,Low,Open,3.3,,AGT-08,,Integration broken after version upgrade
+TKT-199,2024-02-04 16:44,Billing,High,Open,0.9,,AGT-05,,Subscription not activated after payment
+TKT-200,2024-03-08 11:40,Billing,Low,Resolved,0.5,8.4,AGT-04,5,Incorrect charge on invoice
+TKT-201,2024-01-21 14:41,General,Critical,Resolved,2.5,2.3,AGT-08,4,How to export data to CSV
+TKT-202,2024-03-09 08:58,General,Medium,Open,2.2,,AGT-03,,Request for product documentation
+TKT-203,2024-01-24 12:56,Technical,High,Resolved,0.2,11.8,AGT-01,3,Database connection timeout
+TKT-204,2024-01-18 16:29,General,Medium,Resolved,1.1,12.1,AGT-05,3,Feature request: dark mode
+TKT-205,2024-02-07 17:43,Billing,High,Escalated,1.0,,AGT-04,,Wrong plan charged
+TKT-206,2024-01-12 14:42,Technical,Medium,Resolved,1.1,7.5,AGT-02,3,Integration broken after version upgrade
+TKT-207,2024-02-12 12:37,Technical,High,Resolved,2.9,3.6,AGT-12,4,Webhook not triggering
+TKT-208,2024-03-28 16:59,Technical,Low,Resolved,3.9,45.4,AGT-12,4,Integration broken after version upgrade
+TKT-209,2024-03-02 10:29,Billing,Critical,Resolved,4.9,5.5,AGT-12,5,Subscription not activated after payment
+TKT-210,2024-03-17 09:33,Billing,High,Resolved,2.7,2.2,AGT-08,5,Subscription not activated after payment
+TKT-211,2024-01-22 13:54,General,Medium,Resolved,2.3,12.8,AGT-09,5,Change notification preferences
+TKT-212,2024-03-06 14:29,Billing,Medium,Resolved,0.5,17.9,AGT-10,4,Incorrect charge on invoice
+TKT-213,2024-01-10 08:27,General,Low,Resolved,3.6,43.3,AGT-06,5,Change notification preferences
+TKT-214,2024-01-24 10:49,Billing,Low,Resolved,4.9,47.7,AGT-11,4,Wrong plan charged
+TKT-215,2024-03-25 16:08,Technical,Low,Resolved,4.3,21.3,AGT-11,2,Integration broken after version upgrade
+TKT-216,2024-02-08 15:43,Billing,High,Resolved,2.8,3.7,AGT-12,3,Unexpected fee on account
+TKT-217,2024-01-15 08:51,Billing,Critical,Escalated,2.2,,AGT-11,,Incorrect charge on invoice
+TKT-218,2024-01-13 17:02,Billing,Low,Open,3.1,,AGT-08,,Incorrect charge on invoice
+TKT-219,2024-02-21 15:14,Billing,High,Escalated,1.2,,AGT-09,,Incorrect charge on invoice
+TKT-220,2024-02-07 11:52,Billing,Medium,Resolved,3.0,20.0,AGT-12,3,Double billing issue
+TKT-221,2024-02-22 12:17,General,Medium,Resolved,2.9,5.9,AGT-01,4,Change notification preferences
+TKT-222,2024-03-23 18:24,Billing,Critical,Resolved,1.7,2.6,AGT-09,5,Payment failed but amount deducted
+TKT-223,2024-02-08 10:51,Billing,High,Resolved,4.6,7.1,AGT-08,2,Subscription not activated after payment
+TKT-224,2024-03-23 09:59,Technical,Low,Resolved,4.3,12.4,AGT-08,3,Mobile app crash on startup
+TKT-225,2024-01-10 11:51,General,Low,Resolved,3.7,42.3,AGT-10,3,Request for product documentation
+TKT-226,2024-01-16 15:58,Billing,Critical,Escalated,3.5,,AGT-04,,Wrong plan charged
+TKT-227,2024-02-06 14:29,Billing,Medium,Resolved,3.3,21.4,AGT-09,4,Payment failed but amount deducted
+TKT-228,2024-02-17 13:26,Technical,Critical,Resolved,2.9,1.9,AGT-01,5,Mobile app crash on startup
+TKT-229,2024-01-20 11:21,General,Medium,Open,2.0,,AGT-04,,Change notification preferences
+TKT-230,2024-03-28 13:16,General,High,Open,4.8,,AGT-08,,Change notification preferences
+TKT-231,2024-02-15 10:08,Technical,Low,Resolved,2.8,47.6,AGT-12,5,Database connection timeout
+TKT-232,2024-01-10 18:03,Billing,High,Open,2.2,,AGT-01,,Subscription not activated after payment
+TKT-233,2024-01-02 11:32,Billing,High,Open,2.0,,AGT-08,,Payment failed but amount deducted
+TKT-234,2024-01-01 16:35,General,Medium,Resolved,0.3,23.5,AGT-07,1,How to add team members
+TKT-235,2024-01-13 16:09,Billing,Low,Resolved,1.1,15.8,AGT-04,4,Invoice not received
+TKT-236,2024-02-01 11:19,Technical,Medium,Resolved,4.2,16.3,AGT-11,1,SSL certificate issue
+TKT-237,2024-03-01 08:40,Technical,Medium,Resolved,3.6,16.2,AGT-01,3,API timeout errors in production
+TKT-238,2024-01-30 11:57,General,Critical,Resolved,4.5,53.4,AGT-12,5,Request for product documentation
+TKT-239,2024-02-10 08:13,Billing,Critical,Escalated,0.9,,AGT-10,,Wrong plan charged
+TKT-240,2024-03-13 11:36,Billing,Low,Resolved,3.4,36.5,AGT-07,5,Refund not processed
+TKT-241,2024-02-14 08:06,General,High,Resolved,1.3,7.8,AGT-07,4,Request for account deletion
+TKT-242,2024-02-27 15:14,Billing,Medium,Resolved,2.9,14.9,AGT-06,4,Unexpected fee on account
+TKT-243,2024-01-11 12:09,Billing,High,Open,3.6,,AGT-07,,Wrong plan charged
+TKT-244,2024-01-12 08:19,Technical,Medium,Resolved,1.9,6.1,AGT-08,4,Database connection timeout
+TKT-245,2024-01-04 09:22,General,Medium,Resolved,0.6,10.5,AGT-09,3,How to add team members
+TKT-246,2024-03-12 11:36,Billing,High,Resolved,1.0,4.3,AGT-09,4,Refund not processed
+TKT-247,2024-02-23 12:30,Billing,Medium,Open,1.9,,AGT-02,,Payment failed but amount deducted
+TKT-248,2024-02-28 09:08,General,Medium,Resolved,0.2,10.4,AGT-05,5,Change notification preferences
+TKT-249,2024-03-24 17:08,Technical,Medium,Open,1.7,,AGT-05,,Integration broken after version upgrade
+TKT-250,2024-02-20 13:18,Technical,Medium,Resolved,3.5,7.3,AGT-12,4,SSL certificate issue
+TKT-251,2024-03-13 11:37,Technical,Low,Open,1.1,,AGT-09,,System login failure after update
+TKT-252,2024-01-27 15:51,General,Medium,Resolved,4.2,19.5,AGT-05,4,Feature request: dark mode
+TKT-253,2024-02-02 18:09,General,Medium,Resolved,2.2,15.2,AGT-12,4,How to add team members
+TKT-254,2024-02-16 16:38,General,Low,Resolved,4.6,33.2,AGT-11,3,Request for product documentation
+TKT-255,2024-03-27 18:25,General,Critical,Resolved,4.8,66.6,AGT-06,4,Question about usage limits
+TKT-256,2024-02-29 18:37,Technical,Medium,Resolved,2.6,55.5,AGT-12,4,API timeout errors in production
+TKT-257,2024-01-19 13:19,Billing,High,Resolved,2.4,6.2,AGT-06,4,Payment failed but amount deducted
+TKT-258,2024-01-06 09:01,Technical,Low,Resolved,3.3,47.3,AGT-06,3,Dashboard not loading
+TKT-259,2024-03-12 14:29,General,Low,Resolved,4.0,32.9,AGT-04,4,Question about usage limits
+TKT-260,2024-02-19 08:45,Technical,Medium,Open,1.2,,AGT-04,,API timeout errors in production
+TKT-261,2024-03-09 10:23,General,Low,Resolved,1.1,25.5,AGT-06,5,Request for account deletion
+TKT-262,2024-02-20 17:07,General,Medium,Resolved,1.9,16.8,AGT-06,5,How to export data to CSV
+TKT-263,2024-01-16 11:19,General,Low,Resolved,1.1,22.4,AGT-02,2,How to add team members
+TKT-264,2024-03-22 16:44,Technical,Low,Resolved,4.7,16.7,AGT-11,3,Webhook not triggering
+TKT-265,2024-02-15 08:31,General,Low,Resolved,1.1,32.7,AGT-03,4,Change notification preferences
+TKT-266,2024-02-26 15:10,Technical,High,Open,2.9,,AGT-02,,Integration broken after version upgrade
+TKT-267,2024-01-29 16:18,Technical,Low,Resolved,3.9,25.8,AGT-03,4,Mobile app crash on startup
+TKT-268,2024-03-10 13:34,Billing,Low,Resolved,3.8,22.7,AGT-01,5,Subscription not activated after payment
+TKT-269,2024-01-05 15:16,Technical,High,Resolved,4.3,2.3,AGT-06,5,Integration broken after version upgrade
+TKT-270,2024-02-14 17:40,General,Medium,Resolved,1.0,6.6,AGT-07,2,Request for account deletion
+TKT-271,2024-03-09 10:20,General,Low,Resolved,1.6,26.6,AGT-12,5,How to export data to CSV
+TKT-272,2024-02-22 08:17,Billing,Critical,Open,0.8,,AGT-11,,Subscription not activated after payment
+TKT-273,2024-02-01 18:25,Billing,High,Open,0.9,,AGT-08,,Wrong plan charged
+TKT-274,2024-03-22 09:25,Technical,Medium,Resolved,3.8,12.0,AGT-09,4,Mobile app crash on startup
+TKT-275,2024-01-12 15:40,Billing,High,Escalated,3.5,,AGT-11,,Wrong plan charged
+TKT-276,2024-01-28 15:17,Billing,Critical,Resolved,4.2,3.6,AGT-06,4,Invoice not received
+TKT-277,2024-01-06 09:40,General,High,Escalated,0.3,,AGT-08,,Feature request: dark mode
+TKT-278,2024-02-24 11:44,Technical,Medium,Resolved,4.4,21.3,AGT-03,2,Error 500 on checkout page
+TKT-279,2024-03-26 18:10,Technical,Low,Resolved,2.1,14.3,AGT-01,4,API timeout errors in production
+TKT-280,2024-01-10 10:37,Billing,Low,Resolved,2.7,72.7,AGT-04,2,Wrong plan charged
+TKT-281,2024-01-10 11:24,General,Low,Resolved,3.7,42.8,AGT-02,2,Feature request: dark mode
+TKT-282,2024-01-19 09:33,General,Critical,Escalated,0.2,,AGT-10,,Change notification preferences
+TKT-283,2024-03-21 10:58,Technical,High,Resolved,3.2,10.9,AGT-07,2,API timeout errors in production
+TKT-284,2024-02-14 14:20,General,High,Open,1.4,,AGT-03,,Question about usage limits
+TKT-285,2024-03-18 12:49,General,Medium,Open,0.3,,AGT-12,,Need help with onboarding
+TKT-286,2024-03-06 11:47,Billing,Medium,Resolved,1.6,23.0,AGT-07,4,Refund not processed
+TKT-287,2024-03-17 09:33,Billing,Medium,Open,4.9,,AGT-01,,Double billing issue
+TKT-288,2024-03-13 14:23,Technical,High,Open,3.5,,AGT-09,,API timeout errors in production
+TKT-289,2024-01-02 12:13,Billing,Medium,Open,4.6,,AGT-01,,Wrong plan charged
+TKT-290,2024-03-05 14:27,General,Low,Resolved,2.1,10.7,AGT-12,2,How to export data to CSV
+TKT-291,2024-01-20 16:20,General,Critical,Escalated,3.0,,AGT-07,,How to export data to CSV
+TKT-292,2024-01-31 08:15,Technical,High,Resolved,4.6,1.6,AGT-02,4,Dashboard not loading
+TKT-293,2024-01-18 08:10,Billing,Low,Resolved,4.8,35.7,AGT-08,3,Double billing issue
+TKT-294,2024-02-04 09:49,General,High,Resolved,1.8,3.9,AGT-01,5,How to export data to CSV
+TKT-295,2024-02-16 08:31,Technical,Medium,Resolved,1.0,21.7,AGT-10,4,API timeout errors in production
+TKT-296,2024-01-01 08:54,Billing,High,Resolved,1.4,2.7,AGT-01,5,Incorrect charge on invoice
+TKT-297,2024-03-24 14:14,General,High,Escalated,1.4,,AGT-06,,Request for account deletion
+TKT-298,2024-03-14 13:07,Technical,High,Resolved,3.4,6.7,AGT-09,1,SSL certificate issue
+TKT-299,2024-02-06 12:20,Billing,High,Resolved,2.9,7.2,AGT-02,3,Subscription not activated after payment
+TKT-300,2024-03-04 11:46,Technical,Medium,Resolved,3.9,77.5,AGT-09,3,Error 500 on checkout page
+TKT-301,2024-01-02 13:00,General,High,Open,2.0,,AGT-11,,Need help with onboarding
+TKT-302,2024-01-31 14:31,Billing,Low,Resolved,4.9,5.9,AGT-01,3,Wrong plan charged
+TKT-303,2024-02-28 09:37,General,High,Open,2.6,,AGT-02,,How to add team members
+TKT-304,2024-01-08 14:42,Billing,Medium,Resolved,1.3,19.6,AGT-03,5,Invoice not received
+TKT-305,2024-01-30 09:12,Technical,Medium,Resolved,3.9,5.6,AGT-03,4,SSL certificate issue
+TKT-306,2024-01-27 15:19,Billing,Medium,Resolved,1.5,17.1,AGT-08,5,Incorrect charge on invoice
+TKT-307,2024-02-11 10:05,Billing,High,Resolved,1.4,8.4,AGT-12,3,Double billing issue
+TKT-308,2024-02-27 16:47,Billing,Critical,Resolved,1.4,1.3,AGT-09,1,Subscription not activated after payment
+TKT-309,2024-02-21 13:43,Billing,Low,Resolved,4.7,44.4,AGT-11,2,Refund not processed
+TKT-310,2024-02-26 10:05,Billing,Critical,Open,0.8,,AGT-06,,Incorrect charge on invoice
+TKT-311,2024-02-25 14:31,Billing,Critical,Resolved,2.0,5.5,AGT-01,3,Payment failed but amount deducted
+TKT-312,2024-03-20 17:15,Billing,Low,Resolved,1.6,6.7,AGT-11,3,Double billing issue
+TKT-313,2024-03-08 11:40,Technical,Low,Escalated,4.0,,AGT-09,,Error 500 on checkout page
+TKT-314,2024-03-03 13:58,Technical,Medium,Resolved,2.6,9.0,AGT-10,3,Data sync not working
+TKT-315,2024-03-01 16:22,Billing,High,Escalated,5.0,,AGT-10,,Refund not processed
+TKT-316,2024-02-04 16:52,Billing,High,Escalated,0.5,,AGT-12,,Subscription not activated after payment
+TKT-317,2024-02-19 13:59,General,High,Resolved,1.0,8.7,AGT-03,5,Request for product documentation
+TKT-318,2024-03-13 17:09,General,High,Open,4.8,,AGT-10,,Change notification preferences
+TKT-319,2024-03-03 08:05,General,Medium,Resolved,1.3,2.0,AGT-01,5,Question about usage limits
+TKT-320,2024-01-23 13:03,Billing,Medium,Open,0.9,,AGT-01,,Double billing issue
+TKT-321,2024-02-16 09:23,Billing,High,Resolved,4.7,4.3,AGT-12,2,Double billing issue
+TKT-322,2024-03-22 15:41,General,Critical,Open,1.0,,AGT-06,,Request for account deletion
+TKT-323,2024-01-23 14:19,Billing,High,Resolved,3.5,11.4,AGT-12,5,Wrong plan charged
+TKT-324,2024-03-18 13:58,General,Low,Resolved,1.3,10.2,AGT-10,5,Question about usage limits
+TKT-325,2024-01-22 18:56,Technical,Critical,Escalated,4.1,,AGT-02,,Error 500 on checkout page
+TKT-326,2024-01-27 11:44,Technical,Low,Open,1.9,,AGT-02,,System login failure after update
+TKT-327,2024-02-23 10:56,Billing,Medium,Resolved,2.6,4.2,AGT-07,4,Subscription not activated after payment
+TKT-328,2024-01-05 12:01,Billing,Medium,Resolved,1.5,21.5,AGT-06,3,Refund not processed
+TKT-329,2024-01-12 13:38,General,Critical,Escalated,4.5,,AGT-10,,How to add team members
+TKT-330,2024-02-25 10:03,General,Low,Escalated,1.8,,AGT-02,,How to add team members
+TKT-331,2024-03-10 12:42,General,Medium,Resolved,1.6,14.1,AGT-05,4,Request for product documentation
+TKT-332,2024-01-12 12:52,Technical,Low,Resolved,3.2,13.1,AGT-11,4,API timeout errors in production
+TKT-333,2024-02-09 14:30,Technical,High,Resolved,4.5,5.3,AGT-08,4,SSL certificate issue
+TKT-334,2024-01-06 12:28,Technical,Low,Open,1.5,,AGT-08,,Mobile app crash on startup
+TKT-335,2024-03-30 18:06,Billing,Low,Open,3.4,,AGT-02,,Wrong plan charged
+TKT-336,2024-01-08 14:52,General,Low,Resolved,2.2,24.9,AGT-09,5,Change notification preferences
+TKT-337,2024-01-05 16:36,Technical,Low,Resolved,4.0,9.3,AGT-09,5,Dashboard not loading
+TKT-338,2024-01-25 10:02,Billing,Critical,Escalated,0.6,,AGT-07,,Subscription not activated after payment
+TKT-339,2024-03-17 12:20,General,Low,Resolved,4.6,21.5,AGT-12,3,Need help with onboarding
+TKT-340,2024-01-02 17:37,General,Medium,Resolved,4.0,14.5,AGT-09,4,How to export data to CSV
+TKT-341,2024-01-13 12:55,Billing,Medium,Open,4.4,,AGT-09,,Unexpected fee on account
+TKT-342,2024-03-14 17:30,Technical,High,Resolved,1.0,8.5,AGT-01,4,SSL certificate issue
+TKT-343,2024-01-07 15:58,Technical,High,Resolved,4.5,4.3,AGT-05,3,Webhook not triggering
+TKT-344,2024-01-30 10:19,General,High,Open,2.3,,AGT-12,,Need help with onboarding
+TKT-345,2024-03-23 09:12,General,Medium,Open,1.2,,AGT-08,,Change notification preferences
+TKT-346,2024-01-08 16:50,General,High,Open,0.5,,AGT-03,,How to add team members
+TKT-347,2024-03-08 17:01,Billing,High,Open,1.1,,AGT-03,,Incorrect charge on invoice
+TKT-348,2024-01-07 13:45,Billing,Low,Open,1.5,,AGT-04,,Wrong plan charged
+TKT-349,2024-03-28 08:15,General,Critical,Resolved,2.5,3.1,AGT-06,4,Request for account deletion
+TKT-350,2024-02-03 09:18,Billing,High,Resolved,2.1,11.6,AGT-01,5,Subscription not activated after payment
+TKT-351,2024-03-24 14:32,General,Low,Escalated,4.4,,AGT-01,,Request for product documentation
+TKT-352,2024-03-23 10:38,Technical,Critical,Escalated,1.3,,AGT-01,,Data sync not working
+TKT-353,2024-03-23 12:27,General,Critical,Resolved,4.3,2.2,AGT-07,4,How to add team members
+TKT-354,2024-03-06 18:53,General,Low,Resolved,2.9,34.1,AGT-06,4,Request for account deletion
+TKT-355,2024-02-05 12:41,Technical,Medium,Resolved,4.8,13.4,AGT-12,3,System login failure after update
+TKT-356,2024-02-10 18:08,General,Medium,Resolved,0.3,22.0,AGT-12,4,Request for product documentation
+TKT-357,2024-03-14 11:21,General,High,Open,3.6,,AGT-12,,Change notification preferences
+TKT-358,2024-02-08 10:53,General,Medium,Resolved,4.4,4.8,AGT-11,3,Feature request: dark mode
+TKT-359,2024-03-24 09:14,General,High,Escalated,1.3,,AGT-06,,How to add team members
+TKT-360,2024-03-15 12:29,Technical,Medium,Open,2.5,,AGT-02,,Mobile app crash on startup
+TKT-361,2024-01-10 15:56,General,Critical,Open,2.6,,AGT-04,,How to add team members
+TKT-362,2024-01-07 10:08,General,Low,Escalated,1.8,,AGT-04,,Change notification preferences
+TKT-363,2024-01-24 09:31,Billing,Medium,Resolved,3.2,2.1,AGT-06,3,Double billing issue
+TKT-364,2024-03-03 09:08,General,High,Resolved,2.3,6.3,AGT-10,1,Question about usage limits
+TKT-365,2024-01-02 13:48,General,Medium,Resolved,1.1,7.5,AGT-09,4,Request for account deletion
+TKT-366,2024-02-19 16:37,Technical,Low,Open,1.0,,AGT-05,,Data sync not working
+TKT-367,2024-03-07 17:33,Technical,Medium,Resolved,2.3,23.9,AGT-06,4,Integration broken after version upgrade
+TKT-368,2024-02-21 08:14,Billing,Critical,Resolved,3.7,3.7,AGT-04,3,Invoice not received
+TKT-369,2024-01-05 14:56,General,High,Resolved,1.4,119.6,AGT-11,4,Request for product documentation
+TKT-370,2024-02-23 15:24,Billing,High,Resolved,2.8,8.6,AGT-02,4,Unexpected fee on account
+TKT-371,2024-03-25 16:17,Technical,High,Resolved,3.1,2.2,AGT-10,5,API timeout errors in production
+TKT-372,2024-01-14 15:12,Technical,Low,Resolved,1.2,12.9,AGT-10,5,Data sync not working
+TKT-373,2024-03-04 11:44,Billing,Low,Resolved,1.8,43.9,AGT-08,5,Payment failed but amount deducted
+TKT-374,2024-03-06 09:46,Billing,Critical,Resolved,0.7,5.9,AGT-12,3,Payment failed but amount deducted
+TKT-375,2024-01-23 08:54,Billing,Low,Resolved,1.9,9.1,AGT-05,5,Incorrect charge on invoice
+TKT-376,2024-03-25 18:10,Billing,High,Resolved,1.9,10.7,AGT-06,2,Invoice not received
+TKT-377,2024-02-21 15:17,Billing,Low,Resolved,3.5,43.0,AGT-07,3,Double billing issue
+TKT-378,2024-01-21 09:26,General,High,Resolved,2.5,7.7,AGT-10,5,Request for product documentation
+TKT-379,2024-01-17 15:58,General,High,Resolved,0.7,66.8,AGT-08,3,Question about usage limits
+TKT-380,2024-03-07 16:44,General,High,Resolved,3.2,6.3,AGT-12,4,How to add team members
+TKT-381,2024-03-12 17:03,Billing,High,Resolved,3.3,10.4,AGT-01,5,Refund not processed
+TKT-382,2024-02-12 12:03,Technical,Medium,Resolved,1.3,7.2,AGT-09,4,Mobile app crash on startup
+TKT-383,2024-03-04 15:20,Technical,Low,Open,4.9,,AGT-02,,System login failure after update
+TKT-384,2024-01-05 16:35,Billing,Medium,Open,4.2,,AGT-01,,Unexpected fee on account
+TKT-385,2024-03-24 18:29,General,Medium,Resolved,1.9,12.0,AGT-06,4,Change notification preferences
+TKT-386,2024-02-27 09:06,General,High,Resolved,1.3,11.6,AGT-11,3,Request for account deletion
+TKT-387,2024-01-22 15:08,General,Low,Resolved,3.8,12.6,AGT-12,2,How to add team members
+TKT-388,2024-01-25 13:06,Billing,Medium,Resolved,0.4,4.7,AGT-07,5,Payment failed but amount deducted
+TKT-389,2024-03-05 10:31,General,Medium,Resolved,2.7,20.5,AGT-01,4,Feature request: dark mode
+TKT-390,2024-01-17 09:24,General,Medium,Open,3.1,,AGT-11,,How to add team members
+TKT-391,2024-03-29 11:17,Technical,Critical,Open,4.8,,AGT-07,,Webhook not triggering
+TKT-392,2024-03-18 16:19,Billing,Low,Resolved,2.8,28.4,AGT-12,3,Subscription not activated after payment
+TKT-393,2024-03-28 13:58,General,High,Open,0.8,,AGT-11,,Feature request: dark mode
+TKT-394,2024-03-22 13:45,General,Medium,Resolved,3.9,22.7,AGT-02,5,Need help with onboarding
+TKT-395,2024-03-07 09:01,Technical,High,Open,0.9,,AGT-07,,Integration broken after version upgrade
+TKT-396,2024-01-21 12:43,Technical,High,Resolved,0.9,3.2,AGT-05,4,Error 500 on checkout page
+TKT-397,2024-03-27 16:55,Technical,Low,Resolved,3.8,38.5,AGT-04,5,Data sync not working
+TKT-398,2024-02-18 14:26,General,High,Resolved,1.7,66.1,AGT-11,4,Change notification preferences
+TKT-399,2024-03-23 13:48,Billing,Critical,Escalated,2.8,,AGT-10,,Subscription not activated after payment
+TKT-400,2024-03-28 09:11,Technical,Medium,Resolved,3.7,68.1,AGT-03,3,Dashboard not loading
+TKT-401,2024-01-01 13:29,General,High,Resolved,4.7,7.6,AGT-12,5,Need help with onboarding
+TKT-402,2024-03-11 13:04,Technical,High,Resolved,1.7,1.7,AGT-12,4,SSL certificate issue
+TKT-403,2024-01-12 13:14,General,Medium,Resolved,3.4,22.9,AGT-04,4,Change notification preferences
+TKT-404,2024-03-24 08:07,General,High,Resolved,1.9,11.1,AGT-11,3,Request for product documentation
+TKT-405,2024-02-18 09:24,General,High,Resolved,2.8,10.0,AGT-05,4,Change notification preferences
+TKT-406,2024-03-24 11:20,Technical,Low,Resolved,0.6,38.0,AGT-09,4,API timeout errors in production
+TKT-407,2024-01-28 18:27,Billing,High,Open,1.2,,AGT-02,,Wrong plan charged
+TKT-408,2024-01-10 18:09,General,High,Resolved,2.4,1.6,AGT-01,5,How to export data to CSV
+TKT-409,2024-02-03 14:24,General,High,Resolved,3.2,96.5,AGT-08,4,How to export data to CSV
+TKT-410,2024-03-30 09:22,General,Medium,Open,0.7,,AGT-09,,Need help with onboarding
+TKT-411,2024-02-26 14:25,General,Low,Resolved,0.3,36.9,AGT-11,5,Need help with onboarding
+TKT-412,2024-03-27 18:23,General,Low,Resolved,2.9,4.2,AGT-01,4,How to export data to CSV
+TKT-413,2024-02-14 11:26,Technical,Low,Resolved,4.3,31.1,AGT-11,3,API timeout errors in production
+TKT-414,2024-03-13 08:54,Billing,High,Resolved,2.4,1.7,AGT-09,2,Payment failed but amount deducted
+TKT-415,2024-03-26 18:15,Technical,Medium,Resolved,1.6,12.7,AGT-02,3,Data sync not working
+TKT-416,2024-03-13 17:23,General,Medium,Resolved,4.8,19.3,AGT-06,5,How to add team members
+TKT-417,2024-01-18 18:46,Technical,High,Resolved,4.4,4.4,AGT-06,4,Dashboard not loading
+TKT-418,2024-02-05 10:57,General,Medium,Open,1.1,,AGT-09,,How to export data to CSV
+TKT-419,2024-01-03 16:40,General,Low,Resolved,4.1,13.4,AGT-01,1,Need help with onboarding
+TKT-420,2024-03-10 15:41,General,High,Resolved,2.0,9.1,AGT-03,3,Change notification preferences
+TKT-421,2024-02-20 13:32,General,Medium,Open,3.4,,AGT-01,,Feature request: dark mode
+TKT-422,2024-01-21 10:36,General,Low,Escalated,3.4,,AGT-10,,Change notification preferences
+TKT-423,2024-03-03 11:04,Technical,Low,Resolved,2.0,43.9,AGT-05,4,Webhook not triggering
+TKT-424,2024-01-06 18:20,Technical,High,Resolved,3.6,10.2,AGT-02,3,Database connection timeout
+TKT-425,2024-03-24 14:23,General,Low,Open,3.3,,AGT-10,,Need help with onboarding
+TKT-426,2024-01-29 16:25,Technical,Critical,Resolved,4.1,5.4,AGT-06,1,Dashboard not loading
+TKT-427,2024-01-10 16:41,Technical,Low,Resolved,1.2,35.6,AGT-05,2,Integration broken after version upgrade
+TKT-428,2024-01-15 15:43,Technical,High,Resolved,2.5,5.5,AGT-08,3,Dashboard not loading
+TKT-429,2024-01-18 18:32,General,Medium,Resolved,4.5,22.3,AGT-01,4,How to add team members
+TKT-430,2024-03-22 08:56,General,Critical,Escalated,3.7,,AGT-12,,How to export data to CSV
+TKT-431,2024-03-01 15:10,Billing,Medium,Resolved,4.2,20.0,AGT-04,3,Unexpected fee on account
+TKT-432,2024-02-13 15:38,Billing,High,Resolved,0.5,1.2,AGT-10,4,Wrong plan charged
+TKT-433,2024-01-23 15:57,Billing,Medium,Open,3.1,,AGT-10,,Refund not processed
+TKT-434,2024-01-17 17:34,Billing,Medium,Open,4.5,,AGT-01,,Wrong plan charged
+TKT-435,2024-01-06 16:27,General,Medium,Resolved,4.7,9.7,AGT-04,5,How to export data to CSV
+TKT-436,2024-03-02 11:58,Technical,Low,Open,1.6,,AGT-02,,SSL certificate issue
+TKT-437,2024-01-01 17:33,Technical,Low,Resolved,2.7,39.4,AGT-02,4,API timeout errors in production
+TKT-438,2024-03-15 12:16,Billing,Medium,Resolved,2.2,17.0,AGT-09,5,Wrong plan charged
+TKT-439,2024-03-02 10:23,General,High,Resolved,2.9,4.8,AGT-09,5,Feature request: dark mode
+TKT-440,2024-01-30 15:50,General,Low,Resolved,4.8,38.6,AGT-12,5,Request for product documentation
+TKT-441,2024-03-22 08:51,Billing,Medium,Resolved,4.2,3.9,AGT-02,3,Invoice not received
+TKT-442,2024-02-19 14:39,Billing,Medium,Open,2.7,,AGT-11,,Incorrect charge on invoice
+TKT-443,2024-02-26 08:12,Billing,Medium,Resolved,4.7,19.2,AGT-11,4,Subscription not activated after payment
+TKT-444,2024-01-05 13:15,General,Low,Resolved,0.2,38.3,AGT-11,4,How to add team members
+TKT-445,2024-03-07 08:47,Technical,Medium,Resolved,0.5,20.3,AGT-12,5,Error 500 on checkout page
+TKT-446,2024-02-05 11:38,Technical,Critical,Resolved,2.4,60.6,AGT-04,4,Database connection timeout
+TKT-447,2024-02-13 09:51,Billing,Medium,Open,4.8,,AGT-09,,Unexpected fee on account
+TKT-448,2024-02-18 17:30,General,Medium,Escalated,3.8,,AGT-04,,Change notification preferences
+TKT-449,2024-03-16 08:30,General,Medium,Resolved,1.4,6.8,AGT-02,5,Request for account deletion
+TKT-450,2024-03-07 16:00,Technical,Critical,Resolved,4.2,4.2,AGT-12,5,API timeout errors in production
+TKT-451,2024-03-01 13:22,General,Critical,Resolved,4.5,4.3,AGT-04,5,Change notification preferences
+TKT-452,2024-01-31 12:13,General,Low,Resolved,1.2,10.9,AGT-04,2,How to export data to CSV
+TKT-453,2024-03-04 17:00,General,Critical,Escalated,4.8,,AGT-09,,Request for account deletion
+TKT-454,2024-03-14 12:31,General,Medium,Open,4.9,,AGT-03,,Need help with onboarding
+TKT-455,2024-03-14 10:03,Technical,Low,Resolved,4.0,26.1,AGT-09,4,Dashboard not loading
+TKT-456,2024-03-30 16:29,Technical,Critical,Resolved,3.5,3.7,AGT-06,3,Mobile app crash on startup
+TKT-457,2024-02-03 11:17,Technical,Low,Resolved,4.8,22.7,AGT-08,4,Error 500 on checkout page
+TKT-458,2024-02-05 15:11,Technical,High,Resolved,0.8,2.1,AGT-10,3,Integration broken after version upgrade
+TKT-459,2024-02-18 11:09,General,Medium,Open,0.9,,AGT-12,,Feature request: dark mode
+TKT-460,2024-03-21 16:34,Technical,Medium,Resolved,1.7,20.9,AGT-12,1,API timeout errors in production
+TKT-461,2024-01-28 12:30,General,Low,Open,0.7,,AGT-11,,Need help with onboarding
+TKT-462,2024-03-12 12:22,Technical,Medium,Resolved,2.2,15.3,AGT-01,4,Database connection timeout
+TKT-463,2024-02-06 13:20,Billing,Critical,Escalated,2.7,,AGT-11,,Payment failed but amount deducted
+TKT-464,2024-02-06 15:40,Billing,Medium,Resolved,4.4,11.3,AGT-03,4,Wrong plan charged
+TKT-465,2024-02-13 11:20,Billing,Low,Open,3.3,,AGT-06,,Wrong plan charged
+TKT-466,2024-02-16 17:33,Technical,High,Resolved,2.2,100.4,AGT-08,4,API timeout errors in production
+TKT-467,2024-01-14 09:04,Billing,Low,Resolved,2.8,37.7,AGT-08,2,Unexpected fee on account
+TKT-468,2024-03-24 14:19,General,Low,Resolved,1.4,9.8,AGT-04,5,Request for product documentation
+TKT-469,2024-02-11 15:29,Billing,High,Resolved,4.7,11.4,AGT-09,4,Payment failed but amount deducted
+TKT-470,2024-03-13 14:33,General,High,Resolved,3.3,6.9,AGT-11,5,Change notification preferences
+TKT-471,2024-02-03 10:19,Technical,Medium,Open,0.2,,AGT-01,,Dashboard not loading
+TKT-472,2024-03-09 08:44,Technical,Low,Resolved,4.7,79.0,AGT-08,3,Integration broken after version upgrade
+TKT-473,2024-01-25 14:56,Billing,Medium,Resolved,2.3,16.2,AGT-09,5,Subscription not activated after payment
+TKT-474,2024-03-21 11:33,Technical,Low,Resolved,4.1,36.7,AGT-10,5,SSL certificate issue
+TKT-475,2024-01-24 10:18,Billing,High,Open,3.3,,AGT-02,,Unexpected fee on account
+TKT-476,2024-01-25 13:01,General,Medium,Resolved,0.4,4.3,AGT-03,3,Change notification preferences
+TKT-477,2024-01-12 10:00,General,Low,Resolved,1.2,25.9,AGT-08,4,Request for product documentation
+TKT-478,2024-01-19 08:17,Technical,Low,Resolved,0.5,41.0,AGT-07,5,System login failure after update
+TKT-479,2024-02-01 14:49,Billing,Critical,Open,1.4,,AGT-08,,Subscription not activated after payment
+TKT-480,2024-01-13 16:42,Technical,High,Open,2.5,,AGT-04,,Data sync not working
+TKT-481,2024-01-06 16:33,Technical,Low,Resolved,1.4,43.1,AGT-02,5,Integration broken after version upgrade
+TKT-482,2024-02-25 13:00,Billing,Low,Resolved,4.0,14.7,AGT-03,5,Payment failed but amount deducted
+TKT-483,2024-02-17 09:15,General,Medium,Resolved,2.6,23.3,AGT-03,5,Request for product documentation
+TKT-484,2024-01-20 16:50,Billing,Medium,Resolved,0.8,19.3,AGT-02,5,Payment failed but amount deducted
+TKT-485,2024-03-29 14:22,General,Low,Open,0.8,,AGT-12,,Change notification preferences
+TKT-486,2024-02-07 16:44,General,Medium,Resolved,1.1,18.1,AGT-08,3,Feature request: dark mode
+TKT-487,2024-02-27 12:52,Billing,Medium,Resolved,2.8,13.1,AGT-05,5,Incorrect charge on invoice
+TKT-488,2024-03-20 11:20,General,High,Escalated,0.5,,AGT-12,,How to add team members
+TKT-489,2024-03-04 16:09,Billing,Medium,Resolved,1.6,4.1,AGT-10,4,Incorrect charge on invoice
+TKT-490,2024-01-05 11:06,Billing,Low,Resolved,1.1,21.1,AGT-08,4,Unexpected fee on account
+TKT-491,2024-03-18 09:00,Billing,Medium,Open,3.3,,AGT-04,,Refund not processed
+TKT-492,2024-01-08 13:35,Technical,High,Resolved,4.7,8.8,AGT-12,5,Data sync not working
+TKT-493,2024-01-10 12:04,General,Low,Resolved,4.8,27.4,AGT-04,3,Question about usage limits
+TKT-494,2024-01-23 16:47,General,Medium,Resolved,2.2,9.9,AGT-09,4,How to add team members
+TKT-495,2024-01-24 16:25,Billing,Low,Resolved,1.8,23.5,AGT-09,4,Invoice not received
+TKT-496,2024-02-11 13:26,General,Critical,Escalated,2.3,,AGT-11,,Question about usage limits
+TKT-497,2024-02-18 16:59,General,Medium,Escalated,1.4,,AGT-12,,Change notification preferences
+TKT-498,2024-01-05 12:38,Technical,Low,Escalated,2.7,,AGT-01,,Data sync not working
+TKT-499,2024-01-29 11:54,Billing,Medium,Open,0.3,,AGT-06,,Unexpected fee on account
+TKT-500,2024-03-14 17:09,General,Medium,Resolved,0.4,10.1,AGT-02,4,Question about usage limits
